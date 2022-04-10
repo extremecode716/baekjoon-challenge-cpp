@@ -25,12 +25,6 @@
     <Filter Include="소스 파일\baekjoon\problem\p10773">
       <UniqueIdentifier>{d75e360c-c947-4b0c-b3f5-493278916184}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\baekjoon\problem\p9012">
-      <UniqueIdentifier>{d1f2b346-1b16-46e2-9455-d26f7ec83c10}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\baekjoon\problem\p4949">
-      <UniqueIdentifier>{e09becd0-4655-43ce-83bc-523c153d162e}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\baekjoon\problem\p2164">
       <UniqueIdentifier>{2048448a-18d4-41ba-9a0f-09437568c6b5}</UniqueIdentifier>
     </Filter>
@@ -41,6 +35,9 @@
     </ClCompile>
     <ClCompile Include="Problem10773.cpp">
       <Filter>소스 파일\baekjoon\problem\p10773</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem2164.cpp">
+      <Filter>소스 파일\baekjoon\problem\p2164</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
