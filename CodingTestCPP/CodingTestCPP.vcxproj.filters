@@ -39,5 +39,8 @@
     <ClCompile Include="Problem.cpp">
       <Filter>소스 파일\baekjoon\problem\p10828</Filter>
     </ClCompile>
+    <ClCompile Include="Problem10773.cpp">
+      <Filter>소스 파일\baekjoon\problem\p10773</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
